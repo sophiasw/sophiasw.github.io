@@ -16,6 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Twitter RNN](https://github.com/sophiasw/TwitterRNN)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
