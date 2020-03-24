@@ -1,23 +1,21 @@
-## Portfolio
+## Github Projects
 
 ---
 
-### Github Projects
-
-[Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
+### [Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
 <img src="images/ClassificationTree.001.jpeg?raw=true"/>
 [Project Desciption](https://github.com/sophiasw/sophiasw.github.io/blob/master/asparagus.md)
 
 ---
-[Image Colorization](https://github.com/marumse/colorize_images)
+### [Image Colorization](https://github.com/marumse/colorize_images)
 <img src="images/color.jpg?raw=true"/>
 
 ---
-[Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
+### [Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
 <img src="images/iterated_learning.png?raw=true"/>
 
 ---
-[Tweet Generator](https://github.com/sophiasw/TwitterRNN)
+### [Tweet Generator](https://github.com/sophiasw/TwitterRNN)
 <img src="images/LSTM3-chain.png?raw=true"/>
 
 ---
