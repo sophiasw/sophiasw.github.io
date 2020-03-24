@@ -11,6 +11,7 @@
 ### [Image Colorization](https://github.com/marumse/colorize_images)
 <img src="images/color.jpg?raw=true"/>
 
+[Project Desciption](https://github.com/sophiasw/sophiasw.github.io/blob/master/color.md)
 ---
 ### [Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
 <img src="images/iterated_learning.png?raw=true"/>
