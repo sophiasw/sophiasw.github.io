@@ -9,7 +9,7 @@
 
 ---
 [Image Colorization](https://github.com/marumse/colorize_images)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/color.jpg?raw=true"/>
 
 ---
 [Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
