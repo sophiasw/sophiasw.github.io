@@ -5,7 +5,7 @@
 ### Github Projects
 
 [Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ClassificationTree.001.jpeg?raw=true"/>
 
 ---
 [Image Colorization](https://github.com/marumse/colorize_images)
