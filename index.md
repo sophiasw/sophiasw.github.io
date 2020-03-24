@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Github Projects
 
 [Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Image Colorization](https://github.com/marumse/colorize_images)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
