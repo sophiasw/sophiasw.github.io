@@ -13,11 +13,11 @@
 
 ---
 [Iterated Learning in Language Evolution](https://github.com/sophiasw/MoLE-Final-project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/iterated_learning.png?raw=true"/>
 
 ---
 [Twitter RNN](https://github.com/sophiasw/TwitterRNN)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LSTM3-chain.png?raw=true"/>
 
 ---
 
