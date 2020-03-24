@@ -16,7 +16,7 @@
 <img src="images/iterated_learning.png?raw=true"/>
 
 ---
-[Twitter RNN](https://github.com/sophiasw/TwitterRNN)
+[Tweet Generator](https://github.com/sophiasw/TwitterRNN)
 <img src="images/LSTM3-chain.png?raw=true"/>
 
 ---
