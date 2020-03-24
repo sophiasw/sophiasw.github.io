@@ -6,7 +6,7 @@
 
 [Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
 <img src="images/ClassificationTree.001.jpeg?raw=true"/>
-[Project Desciption](https://github.com/sophiasw/sophiasw.github.io/asparagus.md)
+[Project Desciption](https://github.com/sophiasw/sophiasw.github.io/blob/master/asparagus.md)
 
 ---
 [Image Colorization](https://github.com/marumse/colorize_images)
