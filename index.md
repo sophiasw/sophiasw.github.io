@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Automatic Aspargaus Classification](https://github.com/CogSciUOS/asparagus)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
