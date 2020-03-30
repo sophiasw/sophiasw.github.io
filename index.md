@@ -25,6 +25,8 @@
 ### [Tweet Generator](https://github.com/sophiasw/TwitterRNN)
 <img src="images/LSTM3-chain.png?raw=true"/>
 
+[Project Description](https://github.com/sophiasw/sophiasw.github.io/blob/master/twitter.md)
+
 ---
 
 ---
