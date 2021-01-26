@@ -15,7 +15,7 @@ In the course of the project we implemented algorithms that automatically detect
 
 ### 3. The Results
 
-As the project is not finished at the time being, please visit the github repository to find the final results from May 2020 onwards.
+We were able to implement and test a variety of machine learning algorithms in the context of automatic asparagus classification. For a full report on the project and its results please visit our github repository (https://github.com/CogSciUOS/asparagus).
 
 ### 4. Personal Summary
 
