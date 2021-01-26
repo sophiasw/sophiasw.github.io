@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   My majors are neuroinformatics and artificial intelligence.
   <br><br>
+  My current research interest is in explainable and human-centered AI.
+  <br><br>
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
