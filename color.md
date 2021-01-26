@@ -4,11 +4,11 @@
 
 ### 1. The Set-Up
 
-This work is realized as a final project for the class "Implementing artificial neural networks with tensorflor" at Osnabrück University. In a team of three, we are currently working on reproducing the results from Richard Zhang and colleagues with our own implementation. The project will be finished by April 19th.
+This work is realized as a final project for the class "Implementing artificial neural networks with tensorflor" at Osnabrück University. In a team of three, we were working on reproducing the results from Richard Zhang and colleagues with our own implementation.
 
 ### 2. The Results
 
-As the project is not finished at the time being, please visit the github repository to find the final results from May 2020 onwards.
+For a detailed description of the project and the results please visit https://github.com/marumse/colorize_images.
 
 ### 3. Personal Summary
 
