@@ -6,12 +6,12 @@ The study project is investigating how techniques from computer vision, both cla
 
 ### 1. The Set-Up
 
-The project was realized in the context of a study project at Osnabrück University. To complete the cognitive science master's degree students have to participate in a study project for one year. As my brother runs an asparagus farm, I was able to combine helping my family and researching on an interesting topic. In a group of seven motivated students and two supervisors we started the project in April 2019. It will be finished in May 2020. 
+The project was realized in the context of a study project at Osnabrück University. To complete the cognitive science master's degree students have to participate in a study project for one year. As my brother runs an asparagus farm, I was able to combine helping my family and researching on an interesting topic. In a group of seven motivated students and two supervisors we started the project in April 2019 and finished it in May 2020. 
 
 
 ### 2. The Process
 
-In the course of the project we implemented algorithms that automatically detect several features from images of asparagus. Those features can be used to classify the asparagus into commercial classes. Further, we experimented with numerous machine learning approaches such as variational autoencoders, principal component analysis, convolutional neural networks, multi layer perceptrons and random forrests. 
+In the course of the project we implemented algorithms that automatically detect several features from images of asparagus. Those features can be used to classify the asparagus into commercial classes. Further, we experimented with numerous machine learning approaches such as variational autoencoders, principal component analysis, convolutional neural networks, multi layer perceptrons and random forests. 
 
 ### 3. The Results
 
