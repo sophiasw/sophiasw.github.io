@@ -20,12 +20,15 @@ Time Series Analysis and Forecasting
 Neuroinformatics  
 Machine Learning  
 Implementing ANNs with TensorFlow  
-Computer Vision  
+Computer Vision 
+Advanced Computer Vision
+Deep Learning for Computer Vision
 Neurodynamics  
 
 ## Linguistics
 Introduction to Computational Linguistics  
 Models of Language Evolution  
+Inner Speech - Phenomenology and Function
 
 ## (Neuro-)psychology
 Einführung in die Psychologie  
