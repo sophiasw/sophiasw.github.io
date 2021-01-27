@@ -20,9 +20,9 @@ Time Series Analysis and Forecasting
 Neuroinformatics  
 Machine Learning  
 Implementing ANNs with TensorFlow  
-Computer Vision
-Advanced Computer Vision
-Deep Learning for Computer Vision
+Computer Vision\
+Advanced Computer Vision\
+Deep Learning for Computer Vision\
 Neurodynamics  
 
 ## Linguistics
